@@ -1,0 +1,23 @@
+body {
+	background-color: lightblue;
+.myDiv {
+  border: 4px outset red;
+  background-color: lightblue;
+  text-align: center;
+}
+.myDiv1 {
+  border: 4px outset orange;
+  background-color: lightblue;
+  text-align: center;
+}
+.myDiv2 {
+  border: 4px outset yellow;
+  background-color: lightblue;
+  text-align: center;
+}
+.myDiv3 {
+  border: 4px outset purple;
+  background-color: lightblue;
+  text-align: center;
+}
+}
